@@ -8,5 +8,10 @@ namespace ConsoleApplication1
 {
     class persoon
     {
+
+        public persoon()
+        {
+
+        }
     }
 }

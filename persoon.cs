@@ -11,7 +11,7 @@ namespace ConsoleApplication1
 
         public persoon()
         {
-
+            String name;
         }
     }
 }
